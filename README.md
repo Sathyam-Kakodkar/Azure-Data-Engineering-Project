@@ -12,7 +12,7 @@ This project is demostration which involves data ingestion, raw data transformat
 
 The data contains multiple files in the csv format. It is stored in the GitHub repository.
 
-Dataset --> [Data Source.csv](https://github.com/Sathyam-Kakodkar/Azure-Data-Engineering-Project/blob/main/images/flow%20chart.png)
+Dataset --> [Data Source.csv](https://github.com/Sathyam-Kakodkar/Azure-Data-Engineering-Project/tree/main/data)
 
 ## Azure Data Factory 
 
